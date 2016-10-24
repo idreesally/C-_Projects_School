@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1474223220 source:c:\users\idrees\desktop\idrees\school\fall 2016\323_c++\project2\src\main.cpp
+	<iostream>
+	<fstream>
+	"PQSort.h"
+
+1474227939 source:c:\users\idrees\desktop\idrees\school\fall 2016\323_c++\project2\src\pqsort.cpp
+	"PQSort.h"
+
+1474228016 c:\users\idrees\desktop\idrees\school\fall 2016\323_c++\project2\include\pqsort.h
+	"fstream"
+	<iostream>
+	<math.h>
+
